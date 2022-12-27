@@ -3,7 +3,7 @@ package handlers
 import (
 	"database/sql"
 	"net/http"
-	"simpleapi/models"
+	"simplecrudgolang/models"
 	"strconv"
 
 	"github.com/labstack/echo"

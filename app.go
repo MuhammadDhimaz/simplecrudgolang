@@ -2,7 +2,7 @@ package main
 
 import (
 	"database/sql"
-	"simpleapi/handlers"
+	"simplecrudgolang/handlers"
 
 	"github.com/labstack/echo"
 	_ "github.com/mattn/go-sqlite3"
